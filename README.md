@@ -48,15 +48,15 @@ superstore-sql-tableau/
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](screenshots/dashboard.png)
+!(screenshots/dashboard.png)
 
-*(If you have multiple screenshots, include them here too!)*
+
 
 ---
 
 ## 🌐 Live Dashboard
 View the full interactive dashboard on Tableau Public:  
-👉 [Your Tableau Public Link Here](https://public.tableau.com)
+👉(https://public.tableau.com/app/profile/nure.alam.rahman/viz/SuperstoreSalesInsightsDashboardSQLTableau/SuperstoreSalesInsightsDashboard?publish=yes)(https://public.tableau.com)
 
 ---
 
@@ -68,9 +68,9 @@ View the full interactive dashboard on Tableau Public:
 ---
 
 ## 🧑‍💻 Author
-**[Your Name]**  
+Nure Alam Rahman  
 📅 Created: November 2025  
-💬 Contact: [your email or portfolio link]
+💬 Contact: nurealamr05@gmail.com
 
 ---
 
