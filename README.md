@@ -47,17 +47,9 @@ superstore-sql-tableau/
 
 ---
 
-## 🖼️ Dashboard Preview
-!(screenshots/dashboard.png)
-
-
-
----
-
 ## 🌐 Live Dashboard
 View the full interactive dashboard on Tableau Public:  
-👉(https://public.tableau.com/app/profile/nure.alam.rahman/viz/SuperstoreSalesInsightsDashboardSQLTableau/SuperstoreSalesInsightsDashboard?publish=yes)(https://public.tableau.com)
-
+👉(https://public.tableau.com/app/profile/nure.alam.rahman/viz/SuperstoreSalesInsightsDashboardSQLTableau/SuperstoreSalesInsightsDashboard?publish=yes)
 ---
 
 ## 📚 Learnings
